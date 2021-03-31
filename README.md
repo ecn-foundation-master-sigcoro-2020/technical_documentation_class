@@ -27,7 +27,7 @@ Markdown is one of the standards for documentation in software repositories. In 
 Markdown is a markup language, which means that you don't see the final view of the document until you *render* it. This is very similar to HTML or LaTeX and opposite to Word, where you see the document the way it will be printed.
 For example, the document you are reading now is written in Markdown using Atom, and converted by GitHub into what you are actually seeing.
 
-During the class, we will go through the Markdown syntax together following a great [walkthrough]((https://www.markdownguide.org/basic-syntax/)) available online. You may refer to it later when writing the documentation for your projects.
+During the class, we will go through the Markdown syntax together following a great [walkthrough]((https://www.markdownguide.org/basic-syntax/)) available online. You may refer to it later when writing the documentation for your projects. During the class, you may use an [online](https://jbt.github.io/markdown-editor/) Markdown editor. After class, you may find it useful to write thing offline using an Atom *Markdown Preview* package (installation via Atom application, Preferences panel). 
 
 What I would like you to focus on in this class is the outline of your documents. In this repository, I provide a template [README_template.md](README_template.md) for a README.md file. When writing README for your own repository, use it as a starting point.
 
