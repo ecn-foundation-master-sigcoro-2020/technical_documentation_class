@@ -31,10 +31,9 @@ During the class, we will go through the Markdown syntax together following a gr
 
 What I would like you to focus on in this class is the outline of your documents. In this repository, I provide a template [README_template.md](README_template.md) for a README.md file. When writing README for your own repository, use it as a starting point.
 
-![My robot](./philly-magic-gardenadfsadfsa.jpg)
 
 ## draw.io
-[__draw.io__](draw.io) is a free online diagram editor. It is a great tool for illustrating your code architecture, program logic, project structure, etc. It doesn't need registration and you can pair it with GitHub, so that your diagrams are saved in your repository.
+[__draw.io__](https://www.draw.io) is a free online diagram editor. It is a great tool for illustrating your code architecture, program logic, project structure, etc. It doesn't need registration and you can pair it with GitHub, so that your diagrams are saved in your repository.
 
 ## Homework
 1. In your project repositories, create your own README.md file.
