@@ -18,7 +18,7 @@ __Note:__ If some subfolders of your project need a separate documentation, they
 
 
 ## Markdown
-.md in README.md stands for __M__ark __d__own.
+.md in README.md stands for **M**ark **d**own.
 
 Markdown is a *markup* language, like HTML but simpler, permitting to create formatted documents using only a text editor. A document is then rendered (visualised) by some other software, like Atom or a web browser.
 
