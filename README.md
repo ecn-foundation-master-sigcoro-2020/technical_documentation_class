@@ -22,7 +22,7 @@ __Note:__ If some subfolders of your project need a separate documentation, they
 
 Markdown is a *markup* language, like HTML but simpler, permitting to create formatted documents using only a text editor. A document is then rendered (visualised) by some other software, like Atom or a web browser.
 
-Markdown is one of the standards for documentation in software repositories. In your projects, you will have to provide one or multiple README.md files written in Markdown as a part of your final report.
+Markdown is one of the standards for documentation in software repositories. In your projects, you will have to provide one or multiple README.md files written in Markdown as your final report.
 
 Markdown is a markup language, which means that you don't see the final view of the document until you *render* it. This is very similar to HTML or LaTeX and opposite to Word, where you see the document the way it will be printed.
 For example, the document you are reading now is written in Markdown using Atom, and converted by GitHub into what you are actually seeing.
